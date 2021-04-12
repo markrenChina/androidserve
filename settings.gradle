@@ -1,0 +1,3 @@
+include ':androidserver'
+include ':app'
+rootProject.name = "androidserve"
